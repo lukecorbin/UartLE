@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Luke.Corbin\\MyCode\\AndroidProjects\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Luke.Corbin\\MyCode\\AndroidProjects\\BluetoothLeGatt\\Application\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luke.Corbin\\MyCode\\AndroidProjects\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_device.xml",
+        "source": "C:\\Users\\Luke.Corbin\\MyCode\\AndroidProjects\\BluetoothLeGatt\\Application\\src\\main\\res\\layout\\listitem_device.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luke.Corbin\\MyCode\\AndroidProjects\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\gatt_services_characteristics.xml",
+        "source": "C:\\Users\\Luke.Corbin\\MyCode\\AndroidProjects\\BluetoothLeGatt\\Application\\src\\main\\res\\layout\\gatt_services_characteristics.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luke.Corbin\\MyCode\\AndroidProjects\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_indeterminate_progress.xml",
+        "source": "C:\\Users\\Luke.Corbin\\MyCode\\AndroidProjects\\BluetoothLeGatt\\Application\\src\\main\\res\\layout\\actionbar_indeterminate_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luke.Corbin\\MyCode\\AndroidProjects\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\chatwindow.xml",
+        "source": "C:\\Users\\Luke.Corbin\\MyCode\\AndroidProjects\\BluetoothLeGatt\\Application\\src\\main\\res\\layout\\chatwindow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luke.Corbin\\MyCode\\AndroidProjects\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\devicelist.xml",
+        "source": "C:\\Users\\Luke.Corbin\\MyCode\\AndroidProjects\\BluetoothLeGatt\\Application\\src\\main\\res\\layout\\devicelist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luke.Corbin\\MyCode\\AndroidProjects\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\list_ble.xml",
+        "source": "C:\\Users\\Luke.Corbin\\MyCode\\AndroidProjects\\BluetoothLeGatt\\Application\\src\\main\\res\\layout\\list_ble.xml"
+    }
+]

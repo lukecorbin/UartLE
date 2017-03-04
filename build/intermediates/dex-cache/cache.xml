@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Luke.Corbin\MyCode\AndroidProjects\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.1"
+        sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
+        <dex dex="C:\Users\Luke.Corbin\MyCode\AndroidProjects\BluetoothLeGatt\Application\build\intermediates\pre-dexed\release\internal_impl-21.0.3_f3a2698ab3ea961efe3338394229adc8bc6179a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Luke.Corbin\MyCode\AndroidProjects\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Luke.Corbin\MyCode\AndroidProjects\BluetoothLeGatt\Application\build\intermediates\pre-dexed\release\com.android.support-support-v4-21.0.3_9c4261728e0bf29ca9c5abe2a9846eca22448fcf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luke.Corbin\MyCode\AndroidSDK\sdk\samples\android-21\connectivity\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.1"
+        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
+        <dex dex="C:\Users\Luke.Corbin\MyCode\AndroidSDK\sdk\samples\android-21\connectivity\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v13-21.0.3_68d1f19b972d9cfea5df0d5747cb018d610aaed6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luke.Corbin\MyCode\AndroidSDK\sdk\samples\android-21\connectivity\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.1"
+        sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
+        <dex dex="C:\Users\Luke.Corbin\MyCode\AndroidSDK\sdk\samples\android-21\connectivity\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_eb2115053351d12e992cc787a653892fac01263d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luke.Corbin\MyCode\AndroidSDK\sdk\samples\android-21\connectivity\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Luke.Corbin\MyCode\AndroidSDK\sdk\samples\android-21\connectivity\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_ce35e5f8d24daf4df6af91ef9fac073bc95f7485.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Luke.Corbin\MyCode\AndroidProjects\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.1"
+        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
+        <dex dex="C:\Users\Luke.Corbin\MyCode\AndroidProjects\BluetoothLeGatt\Application\build\intermediates\pre-dexed\release\com.android.support-support-v13-21.0.3_1339b948520d84c3f15f9a58e4a6f261123d0125.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luke.Corbin\MyCode\AndroidSDK\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Luke.Corbin\MyCode\AndroidSDK\sdk\samples\android-21\connectivity\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_557683ad1783dd13ea94b14e1ee413e1b5ac1dcb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luke.Corbin\MyCode\AndroidSDK\sdk\samples\android-21\connectivity\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Luke.Corbin\MyCode\AndroidSDK\sdk\samples\android-21\connectivity\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_3f43e73acd5a328892751d0f0ca0bc02ba4bee91.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luke.Corbin\MyCode\AndroidSDK\sdk\samples\android-21\connectivity\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.1"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="C:\Users\Luke.Corbin\MyCode\AndroidSDK\sdk\samples\android-21\connectivity\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-21.0.3_9542111fb4968e45134f65015cddff0f9c10d02f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Luke.Corbin\MyCode\AndroidSDK\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Luke.Corbin\MyCode\AndroidProjects\BluetoothLeGatt\Application\build\intermediates\pre-dexed\release\support-annotations-21.0.3_557683ad1783dd13ea94b14e1ee413e1b5ac1dcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Luke.Corbin\MyCode\AndroidProjects\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.1"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="C:\Users\Luke.Corbin\MyCode\AndroidProjects\BluetoothLeGatt\Application\build\intermediates\pre-dexed\release\com.android.support-cardview-v7-21.0.3_634219bc495c89cf0a91eb2feea72ca5399be03c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Luke.Corbin\MyCode\AndroidProjects\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Luke.Corbin\MyCode\AndroidProjects\BluetoothLeGatt\Application\build\intermediates\pre-dexed\release\internal_impl-21.0.3_f09bd56c4aed3fcc31381ec48a19e357da22ddf6.jar" />
+    </item>
+
+</items>

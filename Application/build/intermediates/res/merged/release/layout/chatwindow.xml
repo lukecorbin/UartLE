@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:weightSum="1">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Received Data"
+            android:id="@+id/txtChatRxLabel"
+            android:textAlignment="center"
+            android:textSize="18dp"
+            android:paddingTop="@dimen/margin_medium"
+            android:padding="@dimen/margin_small"
+            android:layout_gravity="top" />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top"
+            android:layout_weight="1"
+            android:fillViewport="true">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:id="@+id/txtRxChatWindow"
+            android:padding="@dimen/margin_small"
+            android:background="@drawable/myborder"
+            android:scrollbars = "vertical"
+
+            android:textSize="16dp"
+            android:layout_margin="@dimen/margin_tiny"
+            android:layout_height="fill_parent"
+            android:layout_gravity="fill_vertical|fill"
+            android:autoText="false"
+            android:inputType="textMultiLine"
+            android:gravity="bottom" />
+        </ScrollView>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom">
+
+            <TextView
+                android:layout_width="169dp"
+                android:layout_height="wrap_content"
+                android:text="Transmit Data"
+                android:id="@+id/textView2"
+                android:textAlignment="gravity"
+                android:padding="@dimen/margin_small"
+                android:hapticFeedbackEnabled="false"
+                android:gravity="left"
+                android:textSize="18dp" />
+
+            <TextView
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:text=""
+                android:id="@+id/textRate"
+                android:padding="@dimen/margin_small"
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:textSize="14dp" />
+
+            <Button
+                android:text="Send File"
+                android:layout_width="101dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/btn_sendfile"
+                android:padding="@dimen/margin_tiny" />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <EditText
+                android:layout_width="match_parent"
+                android:id="@+id/txtTxChatWindows"
+                android:padding="@dimen/margin_small"
+                android:background="@drawable/myborder"
+                android:imeOptions="actionSend"
+                android:maxLines = "2"
+
+                android:textSize="16dp"
+                android:scrollbars="vertical"
+                android:layout_margin="@dimen/margin_small"
+                android:layout_height="match_parent"
+                android:gravity="bottom"
+                android:layout_gravity="bottom"
+                android:layout_weight="1"
+                android:inputType="text" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+</LinearLayout>

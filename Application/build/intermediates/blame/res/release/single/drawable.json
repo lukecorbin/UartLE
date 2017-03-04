@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Luke.Corbin\\MyCode\\AndroidProjects\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\release\\drawable\\sendbtn.png",
+        "source": "C:\\Users\\Luke.Corbin\\MyCode\\AndroidProjects\\BluetoothLeGatt\\Application\\src\\main\\res\\drawable\\sendbtn.png"
+    },
+    {
+        "merged": "C:\\Users\\Luke.Corbin\\MyCode\\AndroidProjects\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\release\\drawable\\myborder.xml",
+        "source": "C:\\Users\\Luke.Corbin\\MyCode\\AndroidProjects\\BluetoothLeGatt\\Application\\src\\main\\res\\drawable\\myborder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luke.Corbin\\MyCode\\AndroidProjects\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\release\\drawable\\btnsend.xml",
+        "source": "C:\\Users\\Luke.Corbin\\MyCode\\AndroidProjects\\BluetoothLeGatt\\Application\\src\\main\\res\\drawable\\btnsend.xml"
+    }
+]
